@@ -95,6 +95,13 @@ a{
     color: white;
 }
 
+form { 
+    border: 1px solid #ccc;
+    padding: 10px;
+
+    margin-bottom: 20px;
+}
+
 p {
     color: #32de84;
 }
@@ -103,12 +110,6 @@ p {
     line-height: 1.5;
 }
 
-form { 
-    border: 1px solid #ccc;
-    padding: 10px;
-
-    margin-bottom: 20px;
-}
 
 h1, h2{
 
