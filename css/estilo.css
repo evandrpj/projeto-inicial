@@ -70,7 +70,7 @@
     background-repeat: no-repeat;
     background-position: center;
 }
-
+/* add borda superior ao footer  */
 .border {
     border: 1px solid red;
     margin-bottom: 8px;
