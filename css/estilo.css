@@ -44,11 +44,17 @@
 
 /* Exemplo de reset de estilos */
 
-#container{
-    background-color: #ccc;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Ensures padding and border are included in element's total width and height */
 }
 
-.cabecalho{
+.container{
+    background-color: #ffff;
+}
+
+.header{
     background-color: #00f;
     color: #fff;
     padding: 10px;
@@ -81,3 +87,4 @@ h1, h2{
     font-weight: bold;
 
 }
+
