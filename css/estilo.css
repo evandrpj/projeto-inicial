@@ -69,7 +69,9 @@ h1, h2 {
     font-family: sans-serif;
 }
 
-.menu{
-    color: #fff
+.menu ul li{
+    display: inline;
+    margin-right: 10px;
+    text-align: left;
     
 }
