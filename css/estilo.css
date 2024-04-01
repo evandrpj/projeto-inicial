@@ -70,7 +70,7 @@
     background-repeat: no-repeat;
     background-position: center;
 }
-/* add borda superior ao footer  */
+/* estiliza todos os <p>  */
 .border {
     border: 1px solid red;
     margin-bottom: 8px;
@@ -120,4 +120,9 @@ h1, h2{
     font-weight: 800;
 
 }
+.link-a{
 
+    color: #32de84;
+    font-weight: bold;
+
+}
